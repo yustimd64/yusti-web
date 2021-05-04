@@ -4,6 +4,17 @@
 		<title>MainPage</title>
 	</head>
 	<body>
-		<p> SELAMAT DATANG DI LEDOX OnLine Shop</p>
+	<div class="container">
+	  <div class="row">
+		<div style="font-family: CenzilDecorative Bold">
+			<div style="color:#339966" >
+				<div style="font-size:150%">
+					<p>SELAMAT DATANG DI LEDOX OnLine Shop</p>
+				</div>
+			</div>
+		</div>
+	   </div>
+	</div>
+	
 	</body>
 </html>
